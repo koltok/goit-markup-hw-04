@@ -561,6 +561,7 @@ margin-right: 70px;
 
 .portfolio-link {
   display: block;
+  text-decoration: none;
 }
 
 .portfolio-link:hover, 
@@ -639,6 +640,7 @@ text-align: center;
   color: #212121;
   margin: 0;
   margin-bottom: 4px;
+  text-decoration: none;
 }
 
 .portfolio-kind {
